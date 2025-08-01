@@ -1,10 +1,9 @@
 # ML-Tutorial
 
-ML Tutorial
 This repository contains a series of machine learning tutorials, starting from the basics and progressing to more advanced topics. Each tutorial is a self-contained Jupyter Notebook.
 
-Tutorials
-Tutorial 1: Basic Linear Regression - Housing Price Prediction
+##Tutorials
+###Tutorial 1: Basic Linear Regression - Housing Price Prediction
 File: ML T-1.ipynb
 
 Description: This notebook covers the fundamentals of a machine learning project using a simple linear regression model.
